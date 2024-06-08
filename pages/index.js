@@ -203,7 +203,66 @@ const HomePage = (props) => {
                                 </Accordion.Item>
                             </Accordion>
                         </Col>
-                        <Col>3 of 3</Col>
+                        <Col>
+                          
+                            <Accordion>
+                                <Accordion.Item eventKey="0">
+                                    <Accordion.Header>Cases</Accordion.Header>
+                                    <Accordion.Body>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                                        aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                                        culpa qui officia deserunt mollit anim id est laborum.
+                                    </Accordion.Body>
+                                </Accordion.Item>
+                            </Accordion>
+                           
+                            <Accordion>
+                                <Accordion.Item eventKey="0">
+                                    <Accordion.Header>Orders</Accordion.Header>
+                                    <Accordion.Body>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                                        aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                                        culpa qui officia deserunt mollit anim id est laborum.
+                                    </Accordion.Body>
+                                </Accordion.Item>
+                            </Accordion>
+                            <Accordion>
+                                <Accordion.Item eventKey="0">
+                                    <Accordion.Header>Proposals</Accordion.Header>
+                                    <Accordion.Body>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                                        aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                                        culpa qui officia deserunt mollit anim id est laborum.
+                                    </Accordion.Body>
+                                </Accordion.Item>
+                            </Accordion>
+                            <Accordion>
+                                <Accordion.Item eventKey="0">
+                                    <Accordion.Header>Account History</Accordion.Header>
+                                    <Accordion.Body>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                        minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                                        aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                                        culpa qui officia deserunt mollit anim id est laborum.
+                                    </Accordion.Body>
+                                </Accordion.Item>
+                            </Accordion>
+                        </Col>
                     </Row>
                 </Container>
                 {/* {props.content} */}
